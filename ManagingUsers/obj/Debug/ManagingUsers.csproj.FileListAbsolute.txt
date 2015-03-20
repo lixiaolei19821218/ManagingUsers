@@ -1,0 +1,11 @@
+c:\users\charles\documents\visual studio 2012\Projects\ManagingUsers\ManagingUsers\bin\ManagingUsers.dll
+c:\users\charles\documents\visual studio 2012\Projects\ManagingUsers\ManagingUsers\bin\ManagingUsers.pdb
+c:\users\charles\documents\visual studio 2012\Projects\ManagingUsers\ManagingUsers\obj\Debug\ManagingUsers.dll
+c:\users\charles\documents\visual studio 2012\Projects\ManagingUsers\ManagingUsers\obj\Debug\ManagingUsers.pdb
+c:\users\charles\documents\visual studio 2012\Projects\ManagingUsers\ManagingUsers\bin\EntityFramework.dll
+c:\users\charles\documents\visual studio 2012\Projects\ManagingUsers\ManagingUsers\bin\EntityFramework.SqlServer.dll
+c:\users\charles\documents\visual studio 2012\Projects\ManagingUsers\ManagingUsers\bin\System.Web.Providers.dll
+c:\users\charles\documents\visual studio 2012\Projects\ManagingUsers\ManagingUsers\bin\EntityFramework.xml
+c:\users\charles\documents\visual studio 2012\Projects\ManagingUsers\ManagingUsers\bin\EntityFramework.SqlServer.xml
+c:\users\charles\documents\visual studio 2012\Projects\ManagingUsers\ManagingUsers\bin\System.Web.Providers.xml
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\ManagingUsers\ManagingUsers\obj\Debug\ManagingUsers.csprojResolveAssemblyReference.cache
